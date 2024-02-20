@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ServiceCloudVoice</members>
+        <members>ServiceCloudVoice/bxvSWmMwMlJhKZoFqWbBCbjsSoQsYs</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>ServiceCloudVoice</members>
+        <members>ServiceCloudVoice/Call_Failed_to_Connect_Duration_CWE</members>
+        <members>ServiceCloudVoice/Call_Failed_to_Connect_Reason_eQO</members>
+        <members>ServiceCloudVoice/Disconnect_Reason_BbN</members>
+        <members>ServiceCloudVoice/Key_Action_Errors_Dlj</members>
+        <members>ServiceCloudVoice/MOS_Call_Quality_7e2</members>
+        <members>ServiceCloudVoice/Service_Cloud_Voice_Metrics_2PJ</members>
+        <members>ServiceCloudVoice/Status_Sync_Reason_1zv</members>
+        <members>ServiceCloudVoice/Time_Taken_to_Assign_A_Call_Gut</members>
+        <members>ServiceCloudVoice/Total_Voice_Calls_Grouped_By_Call_Type_1OM</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>Service_Cloud_Voice_Metrics</members>
+        <members>Voice_Call_Report</members>
+        <name>ReportType</name>
+    </types>
+    <version>58.0</version>
+</Package>
